@@ -1,0 +1,8 @@
+{
+  "name": "Lost in Brahmaand",
+  "description": "An immersive 3D solar system exploration museum and astronaut identity studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
